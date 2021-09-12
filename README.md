@@ -1,9 +1,19 @@
-# first_flutterproject
-
-A new Flutter project.
+# Flutter User Profile 
+ 
+## In this project and tutorial I've explain.
+### Nested Columns and Rows in Flutter
+### Color Shades
+### Alignment
+### SizedBox
+### Icons
+### Padding
+### MainAxisAlignment
+### CrossAxisAlignment
+### Stateless Widget / Separate Widgets
 
 ![My Post (1)](https://user-images.githubusercontent.com/16830594/132988541-fb15d1a3-ed2f-4fd6-9c64-aa680bffba7d.png)
 
+# Follow Playlist
 https://www.youtube.com/playlist?list=PL85VhPtoVCZL1iu4F3svqlfUeHdvUPxul
 
 
